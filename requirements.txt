@@ -1,0 +1,5 @@
+selenium==4.8.0
+schedule==1.1.0
+requests==2.28.1
+twilio==6.68.0
+smtplib
